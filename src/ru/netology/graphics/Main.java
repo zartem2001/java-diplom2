@@ -1,6 +1,9 @@
 package ru.netology.graphics;
 
+import ru.netology.graphics.image.ColorConvert;
+import ru.netology.graphics.image.Converter;
 import ru.netology.graphics.image.TextGraphicsConverter;
+import ru.netology.graphics.image.TextColorSchema;
 import ru.netology.graphics.server.GServer;
 
 import java.io.File;
